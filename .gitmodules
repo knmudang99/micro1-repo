@@ -1,0 +1,3 @@
+[submodule "submodule-directory"]
+	path = submodule-directory
+	url = https://github.com/knmudang99/main-repo.git
